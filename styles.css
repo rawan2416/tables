@@ -1,0 +1,19 @@
+.pass {
+    color:green;
+    font-size:larger;
+}
+.fail {
+    color:red;
+    font-size:larger;
+}
+th,td {
+    border-style: solid;
+    padding:15px;
+}
+th {
+    background-color:lightblue;
+    color:ghostwhite;
+}
+h1 {
+    
+}
